@@ -1,6 +1,6 @@
 # Sketchpad-Application
 
-^his application allows users to create, save, edit, and share drawings with ease.  Here's a brief overview of how to use this application:
+This application allows users to create, save, edit, and share drawings with ease.  Here's a brief overview of how to use this application:
 
 ## Getting Started
 1. Register or Sign In: To get started, users need to register an account by entering the server address, a username, and a password.  Subsequent users can sign in with their credentials.
