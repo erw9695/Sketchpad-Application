@@ -4,7 +4,7 @@ This application allows users to create, save, edit, and share drawings with eas
 
 ## Getting Started
 1. Register or Sign In: To get started, users need to register an account by entering the server address, a username, and a password.  Subsequent users can sign in with their credentials.
-2. Menu Screen: After registering or signing in, users will be taken to the menu screen.
+2. Menu Screen: After registering or signing in, users will be taken to the menu screen. 
 
 ## Creating a Drawing
 1. New Drawing: To create a new drawing, click the "New Drawing" button on the menu screen.  This will open a screen with a drawing canvas and various tools.
